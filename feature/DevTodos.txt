@@ -1,0 +1,14 @@
+Task organization  
+Break down complex projects into smaller, actionable items. This makes progress measurable and less overwhelming.
+
+Prioritization  
+Helps distinguish urgent bug fixes from long-term improvements, ensuring deadlines are met.
+
+Collaboration  
+Shared todo lists (e.g., GitHub Issues, Jira, Trello) keep teams aligned and accountable.
+
+Documentation  
+Inline TODO comments in code serve as reminders for future improvements or unfinished features.
+
+Progress tracking  
+Checking off tasks provides motivation and a clear sense of accomplishment.
